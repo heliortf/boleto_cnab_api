@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/heliortf/brcobranca.git
+  remote: https://github.com/basesoft/Faciloca-brcobranca.git
   revision: e74772e59356a2ee3f6cf134aafd4bb0af10d096
   specs:
     brcobranca (9.2.4)
