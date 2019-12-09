@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/heliortf/brcobranca.git
-  revision: dd23ad2d120e28eca7c708c1cc9a04d22cb250b7
+  revision: e74772e59356a2ee3f6cf134aafd4bb0af10d096
   specs:
     brcobranca (9.2.4)
       parseline (~> 1.0.3)
